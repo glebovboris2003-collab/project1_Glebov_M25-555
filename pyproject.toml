@@ -2,7 +2,7 @@
 name = "project1-Glebov-m25-555"
 version = "0.1.0"
 description = ""
-authors = ["boris <"rfugu@yandex.ru>"]
+authors = ["boris <rfugu@yandex.ru>"]
 readme = "README.md"
 packages = [
     { include = "labyrinth_game" },
